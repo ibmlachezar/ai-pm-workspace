@@ -29,7 +29,6 @@ Every skill in this workspace encodes one judgment call that separates AI produc
 | build-vs-buy-vs-api | ai-product-strategy | Framework for the implementation decision |
 | model-selection | ai-product-strategy | Matches model to use case — not to capability ceiling |
 | agent-architecture | ai-product-strategy | When to use agents vs simpler approaches |
-| mcp-tool-design | ai-product-strategy | How to expose your product to AI agents via MCP |
 | pilot-to-production | ai-execution | The four gates every AI product must pass before launch |
 | eval-design | ai-evaluation | Three-layer evaluation: model quality, product quality, business impact |
 | ai-pm-interview-prep | ai-career | How to prepare for AI PM roles |
